@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">NobbyEmployer</string>
+    <string name="nobby_employers">Nobby Employers</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="name">Name</string>
+    <string name="termsAndConditions">Leí y acepto el
+        <a href="https://nobby.bitrix24.site/?ts=1566069040#block37">
+            Acuérdo de Términos y Condiciones
+        </a>
+        .
+    </string>
+    <string name="curp">CURP</string>
+    <string name="numero_celular">Número Celular</string>
+    <string name="direccion">Dirección</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="email_inbox">Email Inbox</string>
+    <string name="confirmation_send">Se ha enviado un enlace para confirmar el registro a su correo electrónico.</string>
+    <string name="confirmar_registro">Confirmar Registro</string>
+
+    <string-array name="States">
+        <item>Seleccione un Estado</item>
+        <item>CDMX</item>
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Coahuila</item>
+        <item>Colima</item>
+        <item>Durango</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>Estado de México</item>
+        <item>Michoacán</item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo León</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+        <item>Queretaro</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosi</item>
+        <item>Sinaloa</item>
+        <item>Sonora</item>
+        <item>Tabasco</item>
+        <item>Tamaulipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracruz</item>
+        <item>Yucatán</item>
+        <item>Zacatecas</item>
+    </string-array>
+    <string-array name="Degrees">
+        <item>Seleccione nivel de estudios</item>
+        <item>Preescolar</item>
+        <item>Primaria</item>
+        <item>Secundaria</item>
+        <item>Medio Superior</item>
+        <item>Superior</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+        <item>Posgrado</item>
+    </string-array>
+</resources>
