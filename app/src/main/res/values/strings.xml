@@ -16,11 +16,13 @@
     <string name="curp">CURP</string>
     <string name="numero_celular">Número Celular</string>
     <string name="direccion">Dirección</string>
-    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="fecha_de_nacimiento">Fecha Nac</string>
     <string name="aceptar">Aceptar</string>
     <string name="email_inbox">Email Inbox</string>
     <string name="confirmation_send">Se ha enviado un enlace para confirmar el registro a su correo electrónico.</string>
     <string name="confirmar_registro">Confirmar Registro</string>
+    <string name="passwordRecovery">¿Tienes problemas para iniciar sesión?</string>
+    <string name="logo_splashscreen">Logo SplashScreen</string>
 
     <string-array name="States">
         <item>Seleccione un Estado</item>

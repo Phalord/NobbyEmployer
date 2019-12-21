@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setTheme(R.style.AppTheme);
         setContentView(R.layout.activity_main);
 
         etEmail = findViewById(R.id.etEmail);
@@ -89,6 +90,7 @@ public class MainActivity extends AppCompatActivity {
                                 , Toast.LENGTH_SHORT).show();
                         Intent intent = new Intent(MainActivity.this, HomeActivity.class);
                         startActivity(intent);
+                        finish();
                         break;
                     case "3":
                         Toast.makeText(MainActivity.this, "Cuenta no activada"

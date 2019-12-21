@@ -17,4 +17,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/activity_splash_screen</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
+    </style>
+
 </resources>
